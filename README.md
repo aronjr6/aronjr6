@@ -36,8 +36,8 @@
 <img height="50" src="https://img.icons8.com/color/48/adobe-express.png"/> 
 <img height="50" src="https://img.icons8.com/color/48/miro.png"/> 
 <img height="50" src="https://img.icons8.com/color/48/sketch.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/balsamiq.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/zeplin.png"/> 
+<img height="50" src="https://img.icons8.com/fluency/48/balsamiq.png"/> 
+<img height="50" src="https://img.icons8.com/fluency/48/zeplin.png"/> 
 
 ---
 
@@ -45,16 +45,32 @@
 <img height="50" src="https://img.icons8.com/color/48/git.png"/> 
 <img height="50" src="https://img.icons8.com/color/48/github.png"/> 
 <img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> 
+<img height="50" src="https://img.icons8.com/color/48/android-studio--v3.png"/> 
+<img height="50" src="https://img.icons8.com/color/48/pycharm.png"/> 
+<img height="50" src="https://img.icons8.com/color/48/jupyter.png"/> 
+<img height="50" src="https://img.icons8.com/color/48/vercel.png"/> 
 <img height="50" src="https://img.icons8.com/color/48/notion.png"/> 
 
 ---
 
-## 📱 What I Do
+## 💡 Soft Skills
 
-✨ Design clean and modern UI  
-✨ Build responsive Flutter apps  
-✨ Focus on user experience & usability  
-✨ Convert ideas into real-world products  
+✔ Problem-Solving  
+✔ Creative Thinking  
+✔ Leadership  
+✔ Teamwork  
+✔ Time Management  
+
+---
+
+## 🎓 Certifications
+
+- UX Design Professional Certificate - Google  
+- UI/UX Course - Nativeva  
+- UI/UX Design Principles - Microsoft  
+- Graphic Designer Professional Certificate - Adobe  
+- Flutter and Dart: Developing iOS, Android, and Mobile Apps - IBM  
+- Data Analytics Professional Certificate - Google  
 
 ---
 
@@ -69,17 +85,6 @@
 - 📱 Flutter App (Coming Soon)
 - 🎨 UI Case Study (Coming Soon)
 - 🔥 Full App with Firebase Integration (Coming Soon)
-
----
-
-## ✍️ Dev Content (Coming Soon)
-
-🚀 I’ll be sharing:
-- Flutter tips  
-- UI/UX case studies  
-- Project breakdowns  
-
-👉 (You can link your **dev.to blogs here later**)
 
 ---
 
